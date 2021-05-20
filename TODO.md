@@ -1,14 +1,8 @@
-5 USD + 10 CHF = 10 USD (2:1)
-~~5 USD * 2 = 10 USD~~
-~~make amount private?~~
-consider USD to be decimals?
-~~side effects to modifyibn the object directly?~~
-~~equals()~~
-hashcode (useful for hashtable)?
-compare to null
-compare to other objects
-~~5 CHF * 2 = 10 CHF~~
-Remove dupllication between Dollar and Franc
-common times
-~~common equals~~
-currency?
+type text and get in the ouput longest anagram
+initialize dictionary from text file
+~~create dictionary dynamically~~
+repeated words?
+words with spaces?
+words with special characters? (non alphaabetical)
+~~index out of bounds~~
+find anagram for a given word: dico has "dirty" "room" and input word is "dormitory"
